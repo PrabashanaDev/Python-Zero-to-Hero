@@ -3,6 +3,6 @@
 
 This Repo is for anyone who wants learn Python by doing projects. We will start with basics so anyone who dont have prior knowledge can be follow up.   
 
-Projects
+<h1>Projects</h1>
 
 1.Hello World
